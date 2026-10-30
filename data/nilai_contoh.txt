@@ -1,0 +1,7 @@
+Ayu,85
+Budi,78
+Cintya,92
+Dedi,45
+Eko,75
+Fani,65
+Gita,88

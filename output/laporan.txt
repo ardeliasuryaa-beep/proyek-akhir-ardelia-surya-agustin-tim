@@ -1,0 +1,15 @@
+=========================================
+      LAPORAN REKAPITULASI NILAI         
+=========================================
+
+1. STATISTIK KELAS
+   - Total Siswa Valid  : 7 orang
+   - Rata-rata Nilai    : 75.43
+   - Nilai Tertinggi    : 92.0
+   - Nilai Terendah     : 45.0
+
+2. ANALISIS KETUNTASAN (KKM)
+   - Batas KKM          : 75
+   - Jumlah Tuntas      : 5 orang
+   - Jumlah Belum Tuntas: 2 orang
+   - Persentase Tuntas  : 71.43%
